@@ -38,3 +38,4 @@ Credit to the [free-gophers-pack](https://github.com/MariaLetta/free-gophers-pac
 
 
 **NOTE**: This forked copy of the repository is for the purpose of acting as a backup/mirror repository.
+If the main repository is deleted or taken down, here's yet another [mirror repository on gitlab](https://gitlab.com/NovusEdge/puffgo)
